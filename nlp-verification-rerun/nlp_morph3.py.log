@@ -1,0 +1,46 @@
+검색어:%EA%B0%80%EC%9D%84
+['이화여대', '커밍', '부산', '부산', '문화', '회관', '개최', '교수', '동문', '재학생', '참여', '공연', '이튿날', '봉사', '연주', '티켓', '수익', '기부', '계획', '스포츠동아']
+[('부산', 27), ('음악', 15), ('이화여대', 14), ('청년', 14), ('공연', 12), ('이화', 12), ('문화', 11), ('이번', 11), ('피아노', 11), ('가을', 11), ('스포츠동아', 10), ('기자', 10), ('라운드', 10), ('비콘', 10), ('참여', 9), ('연주', 9), ('감성', 9), ('아웃도어', 9), ('빈티', 9), ('교수', 8), ('전쟁', 8), ('시즌', 8), ('경기', 8), ('공간', 8), ('전시', 8), ('마련', 7), ('대학', 7), ('작품', 7), ('삼성', 7), ('시민', 7), ('도심', 7), ('학교', 6), ('연주회', 6), ('역사', 6), ('피아니스트', 6), ('예술', 6), ('이용', 6), ('사진', 6), ('예술가', 6), ('현장', 6), ('김태현', 6), ('구매', 6), ('센텀시티', 6), ('팝업', 6), ('고객', 6), ('골목', 6), ('상권', 6), ('개최', 5), ('한국', 5), ('당시', 5)]
+50
+     단어  빈도수
+0  이화여대   14
+1    커밍    3
+2    부산   27
+3    문화   11
+4    회관    2
+
+빈도수 기준 내림차순 정렬 ----
+     단어  빈도수
+0    부산   27
+1    음악   15
+2  이화여대   14
+3    청년   14
+4    공연   12
+
+Pandas 기초 통계 : 
+ count    801.000000
+mean       1.976280
+std        2.111442
+min        1.000000
+25%        1.000000
+50%        1.000000
+75%        2.000000
+max       27.000000
+Name: 빈도수, dtype: float64
+
+Numpy 기초 통계 :
+전체 단어 출현 횟수 : 1583
+평균 빈도수 : 1.9762796504369537
+표준 편차 : 2.110123424261211
+
+상위 단어 10개로 막대 그래프
+
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by org.jpype.JPypeContext in an unnamed module (file:/C:/Users/Public/anaconda3/envs/myproject/Lib/site-packages/org.jpype.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+C:/works/projects/pro10anal1/nlp_morph3.py:87: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+C:/works/projects/pro10anal1/nlp_morph3.py:114: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
