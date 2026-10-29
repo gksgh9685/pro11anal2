@@ -77,4 +77,3 @@ print(tukResult)
 # 시각화
 tukResult.plot_simultaneous(xlabel='급여 평균', ylabel='지역')
 plt.show()
-test14anova2.py 표시 중입니다.

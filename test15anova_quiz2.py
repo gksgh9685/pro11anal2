@@ -96,4 +96,3 @@ plt.show()
 # finally:
 #     conn.close()
 # df = df.dropna(subset=['jikwonpay']) # jikwonpay Na 제거
-test15anova_quiz2.py 표시 중입니다.

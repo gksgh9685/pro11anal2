@@ -107,4 +107,3 @@ print(tukResult)
 # 시각화
 tukResult.plot_simultaneous(xlabel='매출액 평균', ylabel='온도 분류')
 plt.show()
-test15anova3.py 표시 중입니다.

@@ -79,4 +79,3 @@ print(tukResult)
 # 시각화 
 tukResult.plot_simultaneous(xlabel='흡수량 평균', ylabel='기름 종류')
 plt.show()
-test15anova_quiz1.py 표시 중입니다.
